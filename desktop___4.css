@@ -1,0 +1,557 @@
+/*
+	@name desktop___4
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 4096px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 4096px;
+}
+
+#_bg__desktop___4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 4096px;
+	background:rgba(213.86,220.06,232.46,1);
+}
+
+
+#rectangle_25 {
+	top: -53px;
+	left: 0px;
+	width: 1440px;
+	height: 253px;
+	background:rgba(0,0,0,1);
+}
+
+
+#vector_91 {
+	top: 999px;
+	left: -1px;
+	width: 1440px;
+	height: 1620.52px;
+}
+
+
+#about_us {
+	top: 334px;
+	left: 754px;
+	width: 532.6px;
+	height: 169.6px;
+	overflow: hidden;
+	font-family: Libre Barcode 128 Text;
+	font-size: 96px;
+	text-align: left;
+	color:#020101;
+}
+
+
+#get_help_ {
+	top: 3987px;
+	left: 1210px;
+	width: 541.8px;
+	height: 190.8px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#buy_and_sell_vinyls_all_over_egypt_and_to_make_it_easier_for_anyone_who_wants_to_start_a_collection_ {
+	top: 462px;
+	left: 754px;
+	width: 675.3px;
+	height: 488.3px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 33px;
+	text-align: left;
+	color:#020101;
+}
+
+
+#recommended_artists {
+	top: 1646px;
+	left: 167px;
+	width: 773.4px;
+	height: 198.4px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 74px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#reviews {
+	top: 3282px;
+	left: 64px;
+	width: 773.4px;
+	height: 198.4px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 74px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#memoji__male_04 {
+	top: 74px;
+	left: 1257px;
+	width: 97px;
+	height: 97px;
+}
+
+#_bg__memoji__male_04_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 97px;
+	height: 97px;
+	-ms-border-radius: 200px;
+	-o-border-radius: 200px;
+	-moz-border-radius: 200px;
+	-webkit-border-radius: 200px;
+	border-radius: 200px;
+	background:rgba(255,255,255,0.2);
+}
+
+
+#image_1 {
+	top: 14.06px;
+	left: 19.11px;
+	width: 57.33px;
+	height: 68.87px;
+}
+
+
+#rectangle_8 {
+	top: 1799px;
+	left: 167px;
+	width: 230px;
+	height: 291px;
+}
+
+
+#rectangle_9 {
+	top: 1799px;
+	left: 484px;
+	width: 231px;
+	height: 291px;
+}
+
+
+#rectangle_10 {
+	top: 1799px;
+	left: 788px;
+	width: 234px;
+	height: 291px;
+}
+
+
+#ab67616d0000b273a44014b83e1dde7144786bb5_1 {
+	top: 2119px;
+	left: 167px;
+	width: 230px;
+	height: 291px;
+}
+
+
+#_81owpybehsl_1 {
+	top: 2119px;
+	left: 484px;
+	width: 231px;
+	height: 291px;
+}
+
+
+#_1621578272_9731577f0a75552091dce6b7963aa2f1_1 {
+	top: 2119px;
+	left: 788px;
+	width: 234px;
+	height: 291px;
+}
+
+
+#artworks_1d27e12f_6e08_40cd_b343_68787c54ce1f_0_t500x500 {
+	top: 2119px;
+	left: 1109px;
+	width: 234px;
+	height: 291px;
+}
+
+
+#travis_scott___utopia {
+	top: 1799px;
+	left: 1109px;
+	width: 234px;
+	height: 291px;
+}
+
+#frame_2 {
+	top: 3402px;
+	left: 56px;
+	width: 366px;
+	height: 369px;
+}
+
+#_bg__frame_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 369px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(0,0,0,1);
+}
+
+
+#union {
+	top: 57.34px;
+	left: 309px;
+	width: 317.96px;
+	height: 369px;
+}
+
+#frame_5 {
+	top: 2530px;
+	left: 90px;
+	width: 713px;
+	height: 492px;
+}
+
+#_bg__frame_5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 713px;
+	height: 492px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:#;
+}
+
+
+#make_your_own_vinyls_now_and_start_importing_your_own_music {
+	top: 306.29px;
+	left: 55px;
+	width: 486.31px;
+	height: 447.64px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_3 {
+	top: 3402px;
+	left: 532px;
+	width: 366px;
+	height: 369px;
+}
+
+#_bg__frame_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 369px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(0,0,0,1);
+}
+
+
+#union_ek1 {
+	top: 57.34px;
+	left: 309px;
+	width: 317.96px;
+	height: 369px;
+}
+
+
+#ahmed {
+	top: 23px;
+	left: -37px;
+	width: 241px;
+	height: 190.8px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#nice_variety_of_albums_for_famous_artists_ {
+	top: 111px;
+	left: 34px;
+	width: 257.6px;
+	height: 186.6px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#CA5AFF;
+}
+
+#frame_4 {
+	top: 3402px;
+	left: 1008px;
+	width: 366px;
+	height: 369px;
+}
+
+#_bg__frame_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 366px;
+	height: 369px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background:rgba(0,0,0,1);
+}
+
+
+#union_ek2 {
+	top: 57.34px;
+	left: 309px;
+	width: 317.96px;
+	height: 369px;
+}
+
+
+#waleed {
+	top: 23px;
+	left: -34px;
+	width: 241px;
+	height: 190.8px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#i_always_enjoy_using_this_website_nice_layout_ {
+	top: 97px;
+	left: 34px;
+	width: 257.6px;
+	height: 186.6px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#CA5AFF;
+}
+
+
+#omar {
+	top: 3425px;
+	left: 14px;
+	width: 241px;
+	height: 190.8px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#i_recommend_making_your_own_vinyl_the_material_is_very_nice_ {
+	top: 3508px;
+	left: 90px;
+	width: 257.6px;
+	height: 186.6px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#CA5AFF;
+}
+
+
+#rectangle_15 {
+	top: 591px;
+	left: 1141px;
+	width: 179px;
+	height: 69px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(0,0,0,1);
+}
+
+
+#shop {
+	top: 598px;
+	left: 1087px;
+	width: 283px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 92px;
+	left: 635px;
+	width: 156px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#shop_ek1 {
+	top: 89px;
+	left: 370px;
+	width: 156px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#sell {
+	top: 89px;
+	left: 908px;
+	width: 156px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Agency FB;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#asset_2_1 {
+	top: 60px;
+	left: 60px;
+	width: 145px;
+	height: 133px;
+}
+
+
+#willie_nelson_and_family_vinyl_transparent_rotm_v2_1 {
+	top: 334px;
+	left: 151px;
+	width: 458px;
+	height: 275px;
+}
+
+
+#releaseformat_1425896_239307_removebg_preview {
+	top: 449px;
+	left: 133px;
+	width: 476px;
+	height: 476px;
+}
+
+
+#fall_out_boy_removebg_preview {
+	top: 665px;
+	left: 133px;
+	width: 521px;
+	height: 402px;
+}
+
+
+#vinyl_png68_1 {
+	top: 3836px;
+	left: -357px;
+	width: 783px;
+	height: 519px;
+}
+
+
+#crosley_executive_cr6019a_phonograph_record_turntable_turntable_removebg_preview_1 {
+	top: 2530px;
+	left: 797px;
+	width: 824px;
+	height: 694px;
+}
+
+
+#ellipse_17 {
+	top: 109px;
+	left: 573px;
+	width: 20px;
+	height: 20px;
+	-ms-border-radius: 10px / 10px;
+	-o-border-radius: 10px / 10px;
+	-moz-border-radius: 10px / 10px;
+	-webkit-border-radius: 10px / 10px;
+	border-radius: 10px / 10px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ellipse_18 {
+	top: 109px;
+	left: 842px;
+	width: 20px;
+	height: 20px;
+	-ms-border-radius: 10px / 10px;
+	-o-border-radius: 10px / 10px;
+	-moz-border-radius: 10px / 10px;
+	-webkit-border-radius: 10px / 10px;
+	border-radius: 10px / 10px;
+	background:rgba(255,255,255,1);
+}
+
+
+
+/* Add your custom CSS here */
